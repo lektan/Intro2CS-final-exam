@@ -16,7 +16,8 @@ def developer2Method():
     print("conutry: Afg")
     print("My speciality: Computer Science")
     print('My birthdate: 17 may, 1999')
-    
+    print("cohort: 2")
+
 
 
 def developer3Method():
