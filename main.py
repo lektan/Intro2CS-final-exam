@@ -14,6 +14,8 @@ def developer2Method():
     print("name: marzia")
     print("last name: jafari")
     print("conutry: Afg")
+    print("My speciality: Computer Science")
+    print('My birthdate: 17 may, 1999')
     
 
 
