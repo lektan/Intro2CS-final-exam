@@ -19,6 +19,7 @@ def developer2Method():
     print("cohort: 2")
     print("age: 23")
     print("cohort")
+    print("email: marzia.jafari32@gmail.com")
 
 
 
