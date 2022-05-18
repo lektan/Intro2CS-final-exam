@@ -7,6 +7,7 @@ def developer1Method():
     print('My gender: Female')
     print('My birthdate: 14 January, 2002')
     print("My speciality: Computer Science")
+    print("My country: Kyrgyzstan")
 
 
 def developer2Method():
