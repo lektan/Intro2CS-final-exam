@@ -1,4 +1,13 @@
 def developer1Method():
+    print('My name: Aizhamal')
+    print('My surname: Zhetigenova')
+    print('My email: 7genowa@gmail.com')
+    print('My cohort: CS 2025')
+    print('My age: 20')
+    print('My gender: Female')
+    print('My birthdate: 14 January, 2002')
+    print("My speciality: Computer Science")
+    print("My country: Kyrgyzstan")
 
 
 def developer2Method():
