@@ -17,6 +17,8 @@ def developer2Method():
     print("My speciality: Computer Science")
     print('My birthdate: 17 may, 1999')
     print("cohort: 2")
+    print("age: 23")
+    print("cohort")
 
 
 
