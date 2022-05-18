@@ -5,6 +5,7 @@ def developer2Method():
 
 
 def developer3Method():
+    print("First name: Baistan Tashkulov")
 
 
     # method calling
