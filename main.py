@@ -1,5 +1,6 @@
 def developer1Method():
     print('My name: Aizhamal')
+    print('My surname: Zhetigenova')
 
 
 def developer2Method():
