@@ -5,6 +5,7 @@ def developer1Method():
     print('My cohort: CS 2025')
     print('My age: 20')
     print('My gender: Female')
+    print('My birthdate: 14 January, 2002')
 
 
 def developer2Method():
