@@ -9,6 +9,7 @@ def developer3Method():
     print("Last name: Tashkulov")
     print("email: baistan.xi@gmail.com")
     print("cohort: Computer Science")
+    print("age: 19")
 
 
     # method calling
