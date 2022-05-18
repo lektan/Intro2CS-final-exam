@@ -12,6 +12,7 @@ def developer3Method():
     print("age: 19")
     print("gender: male")
     print("birthdate: June 27, 2002")
+    print("speciality: Software engineer")
 
 
     # method calling
