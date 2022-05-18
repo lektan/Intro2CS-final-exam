@@ -11,6 +11,7 @@ def developer3Method():
     print("cohort: Computer Science")
     print("age: 19")
     print("gender: male")
+    print("birthdate: June 27, 2002")
 
 
     # method calling
