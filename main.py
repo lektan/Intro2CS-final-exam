@@ -11,6 +11,9 @@ def developer1Method():
 
 
 def developer2Method():
+    print("name: marzia")
+    print("last name: jafari")
+    
 
 
 def developer3Method():
