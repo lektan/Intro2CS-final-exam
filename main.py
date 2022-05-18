@@ -5,7 +5,8 @@ def developer2Method():
 
 
 def developer3Method():
-    print("First name: Baistan Tashkulov")
+    print("First name: Baistan")
+    print("Last name: Tashkulov")
 
 
     # method calling
