@@ -10,6 +10,7 @@ def developer3Method():
     print("email: baistan.xi@gmail.com")
     print("cohort: Computer Science")
     print("age: 19")
+    print("gender: male")
 
 
     # method calling
