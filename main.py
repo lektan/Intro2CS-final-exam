@@ -4,6 +4,7 @@ def developer1Method():
     print('My email: 7genowa@gmail.com')
     print('My cohort: CS 2025')
     print('My age: 20')
+    print('My gender: Female')
 
 
 def developer2Method():
